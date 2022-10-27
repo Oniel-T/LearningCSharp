@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.deps.json
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.dll
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.pdb
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.dll
+C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.pdb

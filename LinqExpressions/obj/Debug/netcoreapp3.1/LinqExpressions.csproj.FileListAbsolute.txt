@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.dll
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.pdb
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.dll
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.pdb
+C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.csproj.AssemblyReference.cache

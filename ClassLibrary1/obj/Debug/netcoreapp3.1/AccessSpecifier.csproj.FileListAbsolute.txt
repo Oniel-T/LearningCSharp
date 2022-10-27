@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\bin\Debug\netcoreapp3.1\AccessSpecifier.deps.json
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\bin\Debug\netcoreapp3.1\AccessSpecifier.dll
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\bin\Debug\netcoreapp3.1\AccessSpecifier.pdb
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.dll
+C:\Users\dev\source\repos\LearningCSharp\ClassLibrary1\obj\Debug\netcoreapp3.1\AccessSpecifier.pdb

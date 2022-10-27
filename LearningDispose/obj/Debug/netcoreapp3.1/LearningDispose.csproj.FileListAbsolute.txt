@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\bin\Debug\netcoreapp3.1\LearningDispose.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\bin\Debug\netcoreapp3.1\LearningDispose.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\bin\Debug\netcoreapp3.1\LearningDispose.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningDispose\obj\Debug\netcoreapp3.1\LearningDispose.csproj.AssemblyReference.cache

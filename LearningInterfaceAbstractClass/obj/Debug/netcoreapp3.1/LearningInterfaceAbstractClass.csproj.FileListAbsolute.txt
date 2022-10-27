@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningInterfaceAbstractClass\obj\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.csproj.AssemblyReference.cache

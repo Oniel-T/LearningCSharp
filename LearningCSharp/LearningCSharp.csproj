@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\AccessSpecifier.csproj" />
+    <ProjectReference Include="..\KeywordLearning\KeywordLearning.csproj" />
+    <ProjectReference Include="..\LearningConstructor\LearningConstructor.csproj" />
+    <ProjectReference Include="..\LearningInheritance\LearningInheritance.csproj" />
+    <ProjectReference Include="..\LearningInterfaceAbstractClass\LearningInterfaceAbstractClass.csproj" />
+    <ProjectReference Include="..\LearningOOPS\LearningOOPS.csproj" />
+    <ProjectReference Include="..\LearningReflection\LearningReflection.csproj" />
+    <ProjectReference Include="..\LearnThreading\LearnThreading.csproj" />
+    <ProjectReference Include="..\LinqExpressions\LinqExpressions.csproj" />
+    <ProjectReference Include="..\MyCollection\MyCollection.csproj" />
+  </ItemGroup>
+
+</Project>

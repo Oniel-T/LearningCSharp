@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LearningCSharp/1.0.0": {
+        "dependencies": {
+          "AccessSpecifier": "1.0.0",
+          "KeywordLearning": "1.0.0",
+          "LearnThreading": "1.0.0",
+          "LearningConstructor": "1.0.0",
+          "LearningInheritance": "1.0.0",
+          "LearningInterfaceAbstractClass": "1.0.0",
+          "LearningOOPS": "1.0.0",
+          "LearningReflection": "1.0.0",
+          "LinqExpressions": "1.0.0",
+          "MyCollection": "1.0.0"
+        },
+        "runtime": {
+          "LearningCSharp.dll": {}
+        }
+      },
+      "AccessSpecifier/1.0.0": {
+        "runtime": {
+          "AccessSpecifier.dll": {}
+        }
+      },
+      "KeywordLearning/1.0.0": {
+        "runtime": {
+          "KeywordLearning.dll": {}
+        }
+      },
+      "LearningConstructor/1.0.0": {
+        "runtime": {
+          "LearningConstructor.dll": {}
+        }
+      },
+      "LearningInheritance/1.0.0": {
+        "runtime": {
+          "LearningInheritance.dll": {}
+        }
+      },
+      "LearningInterfaceAbstractClass/1.0.0": {
+        "runtime": {
+          "LearningInterfaceAbstractClass.dll": {}
+        }
+      },
+      "LearningOOPS/1.0.0": {
+        "runtime": {
+          "LearningOOPS.dll": {}
+        }
+      },
+      "LearningReflection/1.0.0": {
+        "runtime": {
+          "LearningReflection.dll": {}
+        }
+      },
+      "LearnThreading/1.0.0": {
+        "runtime": {
+          "LearnThreading.dll": {}
+        }
+      },
+      "LinqExpressions/1.0.0": {
+        "runtime": {
+          "LinqExpressions.dll": {}
+        }
+      },
+      "MyCollection/1.0.0": {
+        "runtime": {
+          "MyCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessSpecifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KeywordLearning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningConstructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningInterfaceAbstractClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningOOPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearnThreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinqExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

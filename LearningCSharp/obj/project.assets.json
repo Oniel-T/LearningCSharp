@@ -1,0 +1,265 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AccessSpecifier/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AccessSpecifier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessSpecifier.dll": {}
+        }
+      },
+      "KeywordLearning/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/KeywordLearning.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KeywordLearning.dll": {}
+        }
+      },
+      "LearningConstructor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningConstructor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningConstructor.dll": {}
+        }
+      },
+      "LearningInheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningInheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningInheritance.dll": {}
+        }
+      },
+      "LearningInterfaceAbstractClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningInterfaceAbstractClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningInterfaceAbstractClass.dll": {}
+        }
+      },
+      "LearningOOPS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningOOPS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningOOPS.dll": {}
+        }
+      },
+      "LearningReflection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningReflection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningReflection.dll": {}
+        }
+      },
+      "LearnThreading/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearnThreading.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearnThreading.dll": {}
+        }
+      },
+      "LinqExpressions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LinqExpressions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinqExpressions.dll": {}
+        }
+      },
+      "MyCollection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyCollection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessSpecifier/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/AccessSpecifier.csproj",
+      "msbuildProject": "../ClassLibrary1/AccessSpecifier.csproj"
+    },
+    "KeywordLearning/1.0.0": {
+      "type": "project",
+      "path": "../KeywordLearning/KeywordLearning.csproj",
+      "msbuildProject": "../KeywordLearning/KeywordLearning.csproj"
+    },
+    "LearningConstructor/1.0.0": {
+      "type": "project",
+      "path": "../LearningConstructor/LearningConstructor.csproj",
+      "msbuildProject": "../LearningConstructor/LearningConstructor.csproj"
+    },
+    "LearningInheritance/1.0.0": {
+      "type": "project",
+      "path": "../LearningInheritance/LearningInheritance.csproj",
+      "msbuildProject": "../LearningInheritance/LearningInheritance.csproj"
+    },
+    "LearningInterfaceAbstractClass/1.0.0": {
+      "type": "project",
+      "path": "../LearningInterfaceAbstractClass/LearningInterfaceAbstractClass.csproj",
+      "msbuildProject": "../LearningInterfaceAbstractClass/LearningInterfaceAbstractClass.csproj"
+    },
+    "LearningOOPS/1.0.0": {
+      "type": "project",
+      "path": "../LearningOOPS/LearningOOPS.csproj",
+      "msbuildProject": "../LearningOOPS/LearningOOPS.csproj"
+    },
+    "LearningReflection/1.0.0": {
+      "type": "project",
+      "path": "../LearningReflection/LearningReflection.csproj",
+      "msbuildProject": "../LearningReflection/LearningReflection.csproj"
+    },
+    "LearnThreading/1.0.0": {
+      "type": "project",
+      "path": "../LearnThreading/LearnThreading.csproj",
+      "msbuildProject": "../LearnThreading/LearnThreading.csproj"
+    },
+    "LinqExpressions/1.0.0": {
+      "type": "project",
+      "path": "../LinqExpressions/LinqExpressions.csproj",
+      "msbuildProject": "../LinqExpressions/LinqExpressions.csproj"
+    },
+    "MyCollection/1.0.0": {
+      "type": "project",
+      "path": "../MyCollection/MyCollection.csproj",
+      "msbuildProject": "../MyCollection/MyCollection.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AccessSpecifier >= 1.0.0",
+      "KeywordLearning >= 1.0.0",
+      "LearnThreading >= 1.0.0",
+      "LearningConstructor >= 1.0.0",
+      "LearningInheritance >= 1.0.0",
+      "LearningInterfaceAbstractClass >= 1.0.0",
+      "LearningOOPS >= 1.0.0",
+      "LearningReflection >= 1.0.0",
+      "LinqExpressions >= 1.0.0",
+      "MyCollection >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dev\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningCSharp\\LearningCSharp.csproj",
+      "projectName": "LearningCSharp",
+      "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningCSharp\\LearningCSharp.csproj",
+      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningCSharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningReflection\\LearningReflection.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningReflection\\LearningReflection.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj"
+            },
+            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\MyCollection\\MyCollection.csproj": {
+              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\MyCollection\\MyCollection.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

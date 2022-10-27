@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.pdb

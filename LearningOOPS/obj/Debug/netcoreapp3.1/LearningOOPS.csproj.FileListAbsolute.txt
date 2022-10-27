@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.pdb

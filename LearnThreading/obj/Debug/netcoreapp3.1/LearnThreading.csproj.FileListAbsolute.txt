@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\bin\Debug\netcoreapp3.1\LearnThreading.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\bin\Debug\netcoreapp3.1\LearnThreading.dll
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\bin\Debug\netcoreapp3.1\LearnThreading.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.dll
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearnThreading\obj\Debug\netcoreapp3.1\LearnThreading.csproj.AssemblyReference.cache

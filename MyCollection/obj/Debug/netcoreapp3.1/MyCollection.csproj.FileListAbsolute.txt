@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.deps.json
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.dll
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.pdb
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.dll
+C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.pdb

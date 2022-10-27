@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.deps.json
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.pdb
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.dll
+C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.pdb

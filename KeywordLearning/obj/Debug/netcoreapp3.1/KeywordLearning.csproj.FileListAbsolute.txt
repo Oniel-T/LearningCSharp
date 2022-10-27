@@ -1,0 +1,10 @@
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\bin\Debug\netcoreapp3.1\KeywordLearning.deps.json
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\bin\Debug\netcoreapp3.1\KeywordLearning.dll
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\bin\Debug\netcoreapp3.1\KeywordLearning.pdb
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.AssemblyInfo.cs
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.dll
+C:\Users\dev\source\repos\LearningCSharp\KeywordLearning\obj\Debug\netcoreapp3.1\KeywordLearning.pdb
