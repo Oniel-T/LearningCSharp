@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp
 C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.csproj.CoreCompileInputs.cache
 C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.dll
 C:\Users\dev\source\repos\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.deps.json
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.dll
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\bin\Debug\netcoreapp3.1\LearningReflection.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.dll
+F:\Visual Studio Projects\LearningCSharp\LearningReflection\obj\Debug\netcoreapp3.1\LearningReflection.pdb

@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGe
 C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.csproj.CoreCompileInputs.cache
 C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.dll
 C:\Users\dev\source\repos\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.pdb
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.deps.json
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.dll
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\bin\Debug\netcoreapp3.1\MyGenerics.pdb
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.dll
+F:\Visual Studio Projects\LearningCSharp\MyGenerics\obj\Debug\netcoreapp3.1\MyGenerics.pdb

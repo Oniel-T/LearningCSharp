@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1
 C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.dll
 C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.pdb
 C:\Users\dev\source\repos\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.deps.json
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.dll
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\bin\Debug\netcoreapp3.1\LinqExpressions.pdb
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.dll
+F:\Visual Studio Projects\LearningCSharp\LinqExpressions\obj\Debug\netcoreapp3.1\LinqExpressions.pdb

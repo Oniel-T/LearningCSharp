@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj": {}
+    "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj": {
+    "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
         "projectName": "AccessSpecifier2",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\obj\\",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
-                "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+              "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
               }
             }
           }
@@ -52,7 +52,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,24 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+    "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj",
-        "projectName": "AccessSpecifier",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\obj\\",
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj",
+        "projectName": "CharacterProgram",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,7 +110,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,7 +120,756 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj",
+        "projectName": "LearningCSharp",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
+        "projectName": "KeywordLearning",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj",
+        "projectName": "LearningCSharp",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj",
+        "projectName": "LearningInheritance",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj",
+        "projectName": "LearningInterfaceAbstractClass",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj",
+        "projectName": "LearningOOPS",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj",
+        "projectName": "LearningReflection",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
+        "projectName": "LearnThreading",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj",
+        "projectName": "LearningCSharp",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningCSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\CharacterProgram\\CharacterProgram.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningConstructor\\LearningConstructor.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInheritance\\LearningInheritance.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningInterfaceAbstractClass\\LearningInterfaceAbstractClass.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningOOPS\\LearningOOPS.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningReflection\\LearningReflection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LinqExpressions\\LinqExpressions.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj"
+              },
+              "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj": {
+                "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj",
+        "projectName": "MyCollection",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\MyCollection.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyCollection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj",
+        "projectName": "MyGenerics",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\MyGenerics.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\MyGenerics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

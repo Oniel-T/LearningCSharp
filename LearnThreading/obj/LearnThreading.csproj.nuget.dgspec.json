@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {}
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
+    "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
+        "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
         "projectName": "LearnThreading",
-        "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearnThreading\\obj\\",
+        "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\LearnThreading.csproj",
+        "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+        "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\LearnThreading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +48,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,7 @@ namespace LearningInterfaceAbstractClass
     public static void main()
     {
       IMyMain myMain = new MyMain(); //Calls constructor of Abstract class and then of Concrete class (**all MyMethod from 1 to 3 accessible)
-      MyMainAbstract myMainAbstract = new MyMain(); //Calls constructor of Abstract class and then of Concrete class (**MyMethod 1 and 2 accessible)
+      MyMainAbstract myMainAbstract = new MyMain(); //Calls constructor of Abstract class and then of Concrete class (**MyMethod 1 and 2 are not accessible)
     }
   }
   public class MyMain : MyMainAbstract,IMyMain

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AccessSpecifier;
+using System;
 
 namespace AccessSpecifier
 {
@@ -8,7 +9,8 @@ namespace AccessSpecifier
     //private: Accessible only  within the class
     //internal: Accessible only within the namespace
     //public: Accessible every where
-    //protected: 
+    //protected: Acessiob
+    //protected internal: Accessible only from the same assembly/namespace or any derived class
     protected internal void DoNothing()
     {
 
@@ -26,6 +28,17 @@ namespace AccessSpecifier
   }
 
   public class MyAnotherClass
+  {
+    public void AnotherMethod()
+    {
+      Class2 class2 = new Class2();
+      class2.DoNothing(); //protected not accessible.  Need to use protected internal
+    }
+  }
+}
+namespace AccessSpecifier3
+{
+  public class InDifferentNamespace
   {
     public void AnotherMethod()
     {

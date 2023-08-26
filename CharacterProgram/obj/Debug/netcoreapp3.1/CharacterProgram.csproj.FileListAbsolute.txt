@@ -1,0 +1,10 @@
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\bin\Debug\netcoreapp3.1\CharacterProgram.deps.json
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\bin\Debug\netcoreapp3.1\CharacterProgram.dll
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\bin\Debug\netcoreapp3.1\CharacterProgram.pdb
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.dll
+F:\Visual Studio Projects\LearningCSharp\CharacterProgram\obj\Debug\netcoreapp3.1\CharacterProgram.pdb

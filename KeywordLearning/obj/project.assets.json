@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dev\\.nuget\\packages\\": {},
+    "C:\\Users\\oniel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
+      "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
       "projectName": "KeywordLearning",
-      "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
-      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\KeywordLearning\\obj\\",
+      "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\KeywordLearning.csproj",
+      "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\KeywordLearning\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,7 +55,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,7 @@
       "LearningCSharp/1.0.0": {
         "dependencies": {
           "AccessSpecifier": "1.0.0",
+          "CharacterProgram": "1.0.0",
           "KeywordLearning": "1.0.0",
           "LearnThreading": "1.0.0",
           "LearningConstructor": "1.0.0",
@@ -17,7 +18,8 @@
           "LearningOOPS": "1.0.0",
           "LearningReflection": "1.0.0",
           "LinqExpressions": "1.0.0",
-          "MyCollection": "1.0.0"
+          "MyCollection": "1.0.0",
+          "MyGenerics": "1.0.0"
         },
         "runtime": {
           "LearningCSharp.dll": {}
@@ -26,6 +28,11 @@
       "AccessSpecifier/1.0.0": {
         "runtime": {
           "AccessSpecifier.dll": {}
+        }
+      },
+      "CharacterProgram/1.0.0": {
+        "runtime": {
+          "CharacterProgram.dll": {}
         }
       },
       "KeywordLearning/1.0.0": {
@@ -72,6 +79,11 @@
         "runtime": {
           "MyCollection.dll": {}
         }
+      },
+      "MyGenerics/1.0.0": {
+        "runtime": {
+          "MyGenerics.dll": {}
+        }
       }
     }
   },
@@ -82,6 +94,11 @@
       "sha512": ""
     },
     "AccessSpecifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharacterProgram/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -127,6 +144,11 @@
       "sha512": ""
     },
     "MyCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyGenerics/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

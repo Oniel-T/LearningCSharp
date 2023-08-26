@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CharacterProgram\CharacterProgram.csproj" />
     <ProjectReference Include="..\ClassLibrary1\AccessSpecifier.csproj" />
     <ProjectReference Include="..\KeywordLearning\KeywordLearning.csproj" />
     <ProjectReference Include="..\LearningConstructor\LearningConstructor.csproj" />
@@ -16,6 +17,7 @@
     <ProjectReference Include="..\LearnThreading\LearnThreading.csproj" />
     <ProjectReference Include="..\LinqExpressions\LinqExpressions.csproj" />
     <ProjectReference Include="..\MyCollection\MyCollection.csproj" />
+    <ProjectReference Include="..\MyGenerics\MyGenerics.csproj" />
   </ItemGroup>
 
 </Project>

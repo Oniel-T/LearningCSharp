@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\Le
 C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.csproj.AssemblyReference.cache
 C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.dll
 C:\Users\dev\source\repos\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.deps.json
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.dll
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\bin\Debug\netcoreapp3.1\LearningOOPS.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.dll
+F:\Visual Studio Projects\LearningCSharp\LearningOOPS\obj\Debug\netcoreapp3.1\LearningOOPS.pdb

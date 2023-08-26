@@ -2,48 +2,195 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "AccessSpecifier/1.0.0": {
+      "CharacterProgram/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/AccessSpecifier.dll": {}
+          "bin/placeholder/CharacterProgram.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AccessSpecifier.dll": {}
+          "bin/placeholder/CharacterProgram.dll": {}
+        }
+      },
+      "KeywordLearning/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/KeywordLearning.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KeywordLearning.dll": {}
+        }
+      },
+      "LearningCSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "CharacterProgram": "1.0.0",
+          "KeywordLearning": "1.0.0",
+          "LearnThreading": "1.0.0",
+          "LearningCSharp": "1.0.0",
+          "LearningInheritance": "1.0.0",
+          "LearningInterfaceAbstractClass": "1.0.0",
+          "LearningOOPS": "1.0.0",
+          "LearningReflection": "1.0.0",
+          "MyCollection": "1.0.0",
+          "MyGenerics": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LearningCSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningCSharp.dll": {}
+        }
+      },
+      "LearningInheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningInheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningInheritance.dll": {}
+        }
+      },
+      "LearningInterfaceAbstractClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningInterfaceAbstractClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningInterfaceAbstractClass.dll": {}
+        }
+      },
+      "LearningOOPS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningOOPS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningOOPS.dll": {}
+        }
+      },
+      "LearningReflection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearningReflection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearningReflection.dll": {}
+        }
+      },
+      "LearnThreading/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LearnThreading.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LearnThreading.dll": {}
+        }
+      },
+      "MyCollection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyCollection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyCollection.dll": {}
+        }
+      },
+      "MyGenerics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MyGenerics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyGenerics.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AccessSpecifier/1.0.0": {
+    "CharacterProgram/1.0.0": {
+      "type": "project",
+      "path": "../CharacterProgram/CharacterProgram.csproj",
+      "msbuildProject": "../CharacterProgram/CharacterProgram.csproj"
+    },
+    "KeywordLearning/1.0.0": {
+      "type": "project",
+      "path": "../KeywordLearning/KeywordLearning.csproj",
+      "msbuildProject": "../KeywordLearning/KeywordLearning.csproj"
+    },
+    "LearningCSharp/1.0.0": {
       "type": "project",
       "path": "../ClassLibrary1/AccessSpecifier.csproj",
       "msbuildProject": "../ClassLibrary1/AccessSpecifier.csproj"
+    },
+    "LearningInheritance/1.0.0": {
+      "type": "project",
+      "path": "../LearningInheritance/LearningInheritance.csproj",
+      "msbuildProject": "../LearningInheritance/LearningInheritance.csproj"
+    },
+    "LearningInterfaceAbstractClass/1.0.0": {
+      "type": "project",
+      "path": "../LearningInterfaceAbstractClass/LearningInterfaceAbstractClass.csproj",
+      "msbuildProject": "../LearningInterfaceAbstractClass/LearningInterfaceAbstractClass.csproj"
+    },
+    "LearningOOPS/1.0.0": {
+      "type": "project",
+      "path": "../LearningOOPS/LearningOOPS.csproj",
+      "msbuildProject": "../LearningOOPS/LearningOOPS.csproj"
+    },
+    "LearningReflection/1.0.0": {
+      "type": "project",
+      "path": "../LearningReflection/LearningReflection.csproj",
+      "msbuildProject": "../LearningReflection/LearningReflection.csproj"
+    },
+    "LearnThreading/1.0.0": {
+      "type": "project",
+      "path": "../LearnThreading/LearnThreading.csproj",
+      "msbuildProject": "../LearnThreading/LearnThreading.csproj"
+    },
+    "MyCollection/1.0.0": {
+      "type": "project",
+      "path": "../MyCollection/MyCollection.csproj",
+      "msbuildProject": "../MyCollection/MyCollection.csproj"
+    },
+    "MyGenerics/1.0.0": {
+      "type": "project",
+      "path": "../MyGenerics/MyGenerics.csproj",
+      "msbuildProject": "../MyGenerics/MyGenerics.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AccessSpecifier >= 1.0.0"
+      "LearningCSharp >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dev\\.nuget\\packages\\": {},
+    "C:\\Users\\oniel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
+      "projectUniqueName": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
       "projectName": "AccessSpecifier2",
-      "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
-      "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\obj\\",
+      "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
+      "packagesPath": "C:\\Users\\oniel\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +204,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
-              "projectPath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
+            "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj": {
+              "projectPath": "F:\\Visual Studio Projects\\LearningCSharp\\ClassLibrary1\\AccessSpecifier.csproj"
             }
           }
         }
@@ -78,7 +225,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -87,8 +235,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  AccessSpecifier2 -> LearningCSharp -> LearningCSharp.",
+      "libraryId": "LearningCSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

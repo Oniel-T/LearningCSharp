@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "n4DB9C21ME9qwbuvuvtbaHwNtFLSApu3TOKRAgicj1IViwOyGmGAswf6lwcYmZ7Wef6eizNlsDBNzFvx3dTYeQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
+  "dgSpecHash": "gOgEc5TH9hsILzcNGLqjUGs3RRd6CzLB2pUV0dkMxKjWFqoUOBT0yXmYJ8QeoiEfK94xbvp2cevR7ub/UK97sg==",
+  "success": false,
+  "projectFilePath": "F:\\Visual Studio Projects\\LearningCSharp\\AccessSpecifier2\\AccessSpecifier2.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  AccessSpecifier2 -> LearningCSharp -> LearningCSharp.",
+      "libraryId": "LearningCSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

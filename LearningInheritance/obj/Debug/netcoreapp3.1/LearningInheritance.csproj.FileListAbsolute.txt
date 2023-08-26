@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreap
 C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.csproj.CoreCompileInputs.cache
 C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.dll
 C:\Users\dev\source\repos\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.deps.json
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.dll
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\bin\Debug\netcoreapp3.1\LearningInheritance.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.dll
+F:\Visual Studio Projects\LearningCSharp\LearningInheritance\obj\Debug\netcoreapp3.1\LearningInheritance.pdb

@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\LearningConstructor\obj\Debug\netcoreap
 C:\Users\dev\source\repos\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.csproj.CoreCompileInputs.cache
 C:\Users\dev\source\repos\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.dll
 C:\Users\dev\source\repos\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\bin\Debug\netcoreapp3.1\LearningConstructor.deps.json
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\bin\Debug\netcoreapp3.1\LearningConstructor.dll
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\bin\Debug\netcoreapp3.1\LearningConstructor.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.dll
+F:\Visual Studio Projects\LearningCSharp\LearningConstructor\obj\Debug\netcoreapp3.1\LearningConstructor.pdb

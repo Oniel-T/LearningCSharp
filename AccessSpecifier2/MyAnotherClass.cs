@@ -9,6 +9,21 @@ namespace AccessSpecifier2
     {
       MyAnotherClass class2 = new MyAnotherClass();
       class2.DoNothing(); //protected accessible
+      base.DoNothing();
+      var x = new x.x.x.y();
+    }
+  }
+}
+namespace x
+{
+  namespace x
+  {
+    public class x
+    {
+      public class y
+      {
+
+      }
     }
   }
 }

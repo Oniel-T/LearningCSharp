@@ -33,3 +33,42 @@ C:\Users\dev\source\repos\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\
 C:\Users\dev\source\repos\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInheritance.pdb
 C:\Users\dev\source\repos\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.dll
 C:\Users\dev\source\repos\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.exe
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.deps.json
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.runtimeconfig.json
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.runtimeconfig.dev.json
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningCSharp.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\AccessSpecifier.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\KeywordLearning.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningConstructor.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInheritance.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningOOPS.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningReflection.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearnThreading.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LinqExpressions.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\MyCollection.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\AccessSpecifier.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\KeywordLearning.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningConstructor.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInheritance.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningInterfaceAbstractClass.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningOOPS.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearningReflection.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LearnThreading.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\LinqExpressions.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\MyCollection.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.csproj.CopyComplete
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\obj\Debug\netcoreapp3.1\LearningCSharp.genruntimeconfig.cache
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\MyGenerics.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\MyGenerics.pdb
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\CharacterProgram.dll
+F:\Visual Studio Projects\LearningCSharp\LearningCSharp\bin\Debug\netcoreapp3.1\CharacterProgram.pdb

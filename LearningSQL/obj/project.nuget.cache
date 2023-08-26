@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVa56kXuTO6A4NHkssPPJFlk4aFH0w9RzWmu1Fk62zSWpmV5LUBsO10IDuayg/VSxGzJtFcJqsyQ/NH5IyJNrw==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningSQL\\LearningSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

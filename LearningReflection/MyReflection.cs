@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace LearningReflection
 {
-  public class MyClass
+  public class MyReflection
   {
     public void MyMethod()
     {

@@ -13,9 +13,9 @@ namespace MyCollection
       //System.Collections.Stack
       ArrayList arraylist = new ArrayList(); //can add object
       BitArray bitArray = new BitArray(new bool[] { true, false, false, false }); // boolean array
-      Hashtable hashtable = new Hashtable(); //key value pair of object
+      Hashtable hashtable = new Hashtable(); //key value pair of object // keys taken randomly
       Queue queue1 = new Queue(); //Enqueue Dequeue object
-      SortedList sortedList = new SortedList(); //key value pair of object
+      SortedList sortedList = new SortedList(); //key value pair of object // keys taken in sorted fashion
       Stack stack1 = new Stack(); //Push,Pop object
 
       //Generic

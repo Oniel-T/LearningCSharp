@@ -8,3 +8,13 @@ C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\My
 C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.csproj.CoreCompileInputs.cache
 C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.dll
 C:\Users\dev\source\repos\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.pdb
+F:\Visual Studio Projects\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.deps.json
+F:\Visual Studio Projects\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.dll
+F:\Visual Studio Projects\LearningCSharp\MyCollection\bin\Debug\netcoreapp3.1\MyCollection.pdb
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.AssemblyInfo.cs
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.dll
+F:\Visual Studio Projects\LearningCSharp\MyCollection\obj\Debug\netcoreapp3.1\MyCollection.pdb

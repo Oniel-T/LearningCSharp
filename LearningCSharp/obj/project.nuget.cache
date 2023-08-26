@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9SMBfKMq+AmvDalnabWoZoDngt7mF3zNBt8kpHNUvx2e58FhWW+q3Ut5IQMA8fR0hLE/ohRTWbmPcOzhq9uZoA==",
+  "dgSpecHash": "SgRujJ7J/UxB9gUolTqOABgBvwx9CK1D3LP08u+ueg0+H3fnzrSebTtKRYhHeezjVBEkjkw6AOKXSmHbLR9FGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\source\\repos\\LearningCSharp\\LearningCSharp\\LearningCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Visual Studio Projects\\LearningCSharp\\LearningCSharp\\LearningCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oniel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
